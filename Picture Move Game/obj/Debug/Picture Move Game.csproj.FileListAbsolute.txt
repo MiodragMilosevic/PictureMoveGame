@@ -1,0 +1,9 @@
+c:\users\miodrag milosevic\documents\visual studio 2017\Projects\Picture Move Game\Picture Move Game\bin\Debug\Picture Move Game.exe.config
+c:\users\miodrag milosevic\documents\visual studio 2017\Projects\Picture Move Game\Picture Move Game\bin\Debug\Picture Move Game.exe
+c:\users\miodrag milosevic\documents\visual studio 2017\Projects\Picture Move Game\Picture Move Game\bin\Debug\Picture Move Game.pdb
+c:\users\miodrag milosevic\documents\visual studio 2017\Projects\Picture Move Game\Picture Move Game\obj\Debug\Picture Move Game.csprojResolveAssemblyReference.cache
+c:\users\miodrag milosevic\documents\visual studio 2017\Projects\Picture Move Game\Picture Move Game\obj\Debug\Picture_Move_Game.Form1.resources
+c:\users\miodrag milosevic\documents\visual studio 2017\Projects\Picture Move Game\Picture Move Game\obj\Debug\Picture_Move_Game.Properties.Resources.resources
+c:\users\miodrag milosevic\documents\visual studio 2017\Projects\Picture Move Game\Picture Move Game\obj\Debug\Picture Move Game.csproj.GenerateResource.Cache
+c:\users\miodrag milosevic\documents\visual studio 2017\Projects\Picture Move Game\Picture Move Game\obj\Debug\Picture Move Game.exe
+c:\users\miodrag milosevic\documents\visual studio 2017\Projects\Picture Move Game\Picture Move Game\obj\Debug\Picture Move Game.pdb
